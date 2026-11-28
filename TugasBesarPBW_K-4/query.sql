@@ -1,7 +1,5 @@
 -- Database: RecipeSharing
 
--- DROP DATABASE IF EXISTS "RecipeSharing";
-
 CREATE DATABASE "RecipeSharing"
     WITH
     OWNER = postgres
